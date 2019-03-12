@@ -79,8 +79,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   <?php echo 'SHINTA '; ?>
-                   {{'APRIYANI'}}
+                   <?php echo 'Mochamad '; ?>
+                   {{'Sudrajat'}}
                 </div>
 
                 <div class="links">

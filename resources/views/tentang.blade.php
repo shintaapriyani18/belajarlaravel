@@ -12,7 +12,7 @@
  
 	<p>Ini Adalah Halaman Tentang</p>
 	<p>
-		 Hallo nama saya Shinta Apriyani.
+		 Hallo nama saya Mochamad Sudrajat.
 	</p>
  
 @endsection
